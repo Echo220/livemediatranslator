@@ -1,0 +1,17 @@
+.gradle/
+.cxx/
+build/
+local.properties
+captures/
+*.iml
+*.jks
+*.keystore
+signing.properties
+*.apk
+*.aab
+*.hprof
+*.pftrace
+perf.data
+
+app/build/
+app/.cxx/

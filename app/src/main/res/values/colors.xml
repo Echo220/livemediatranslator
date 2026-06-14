@@ -1,0 +1,5 @@
+<resources>
+    <color name="caption_bg">#D90B0F14</color>
+    <color name="caption_text">#FFFFFFFF</color>
+    <color name="caption_hint">#FFB8C7D8</color>
+</resources>
